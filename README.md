@@ -47,22 +47,10 @@ ChatterBox is a modern, real-time chat application built with **React**, **Fireb
 5. **Open the App**:
    Visit http://localhost:5173 in your browser.
 
-## Folder Structure
-
-ChatterBox/
-├── public/              # Static assets (e.g., background image)
-├── src/
-│   ├── components/      # React components
-│   ├── firebase.js      # Firebase configuration
-│   ├── App.jsx          # Main application component
-│   └── App.css          # Styles for the app
-├── .env                 # Environment variables (e.g., Firebase config)
-├── README.md            # Project documentation
-└── package.json         # Project dependencies
-
 ## Screenshots
 ChatterBox Screenshot
 ChatterBox in action!
+![Screenshot 2025-03-02 225822](https://github.com/user-attachments/assets/aba77306-04e4-4e79-b9f7-40a36cba9f39)
 
 ## Contributions
 Contributions are welcome! If you'd like to improve ChatterBox, follow these steps:
@@ -77,6 +65,6 @@ Contributions are welcome! If you'd like to improve ChatterBox, follow these ste
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
--Firebase for backend services.
--React Icons for icons.
--Vite for fast development.
+- Firebase for backend services.
+- React Icons for icons.
+- Vite for fast development.
